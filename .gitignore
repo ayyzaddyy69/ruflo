@@ -79,6 +79,7 @@ target/
 .ruv-swarm/
 .swarm/
 .swarm/memory.db*
+/data/memory/
 .turbo/
 .vscode/
 /coordination/
