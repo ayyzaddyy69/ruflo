@@ -161,6 +161,7 @@ hive-mind-prompt-*.txt
 
 # Claude Flow runtime data
 .claude-flow/data/
+data/memory/
 .claude-flow/logs/
 
 # Environment variables — block ALL .env variants except .example templates
